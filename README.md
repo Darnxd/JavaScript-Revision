@@ -4,4 +4,7 @@ JavaScript Revision
     
 📚Topic Covered
 
-    Variables (string, number, boolean)
+    Variables (string, number, boolean).
+    Arrays and Objects.
+    Conditional statements (if, else, else if)
+    
