@@ -8,5 +8,7 @@ JavaScript Revision
     
     Arrays and Objects.
     
-    Conditional statements (if, else, else if)
+    Conditional statements (if, else, else if).
+
+    Loops (for, while, for...of)
     
