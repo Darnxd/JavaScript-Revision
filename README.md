@@ -11,4 +11,6 @@ JavaScript Revision
     Conditional statements (if, else, else if).
 
     Loops (for, while, for...of)
+
+    Functions
     
