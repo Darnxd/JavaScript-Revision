@@ -13,4 +13,6 @@ JavaScript Revision
     Loops (for, while, for...of)
 
     Functions
+
+    Array 
     
